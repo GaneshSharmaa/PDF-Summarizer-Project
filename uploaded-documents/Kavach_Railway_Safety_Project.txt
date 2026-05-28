@@ -1,0 +1,58 @@
+Kavach Railway Safety Project by Indian Railways
+
+Kavach is an indigenous Automatic Train Protection (ATP) system
+developed by Indian Railways to improve railway safety and reduce
+accidents caused by human error. The system was developed in
+collaboration with the Research Design and Standards Organisation (RDSO)
+and Indian industry partners. It is designed to automatically control
+train movement and prevent collisions, especially in situations where
+train drivers fail to respond to signals or speed restrictions.
+
+The word “Kavach” means “armor” or “shield,” which reflects the system’s
+purpose of protecting passengers, railway staff, and railway
+infrastructure. Indian Railways officially adopted Kavach as a major
+railway safety initiative to modernize train operations and strengthen
+accident prevention mechanisms across the railway network.
+
+One of the key features of Kavach is its ability to prevent Signal
+Passed at Danger (SPAD) incidents. SPAD occurs when a train crosses a
+red signal due to driver oversight or communication failure. Kavach
+continuously monitors train speed and signal conditions. If a loco pilot
+fails to slow down or stop the train despite warnings, the system
+automatically applies brakes to prevent accidents.
+
+The project uses advanced technologies such as radio communication, RFID
+tags, onboard computers, and centralized control systems. RFID tags
+installed on railway tracks help trains identify their location
+accurately. Communication between stations, signaling systems, and
+locomotives ensures that trains receive real-time updates regarding
+movement authority and track conditions.
+
+Kavach also helps maintain safe distances between trains by controlling
+train speed automatically. It can prevent head-on collisions and
+rear-end collisions by ensuring trains do not move into occupied tracks.
+In foggy or low-visibility conditions, the system improves operational
+safety by providing drivers with clear signal information inside the
+locomotive cabin.
+
+Indian Railways has been gradually expanding the deployment of Kavach on
+important railway routes, especially high-density and high-speed
+corridors. The government has emphasized increasing its implementation
+to improve passenger confidence and operational efficiency. Although
+installing the system across India’s vast railway network requires
+significant investment and time, it is considered an important step
+toward railway modernization.
+
+The advantages of Kavach include improved passenger safety, reduced
+dependency on human judgment, prevention of train collisions, better
+operational efficiency, and reduced delays caused by signaling errors.
+Since it is developed in India, the system is also more cost-effective
+compared to imported train protection technologies.
+
+In conclusion, the Kavach Railway Safety Project represents a
+significant technological advancement for Indian Railways. By combining
+automation, real-time communication, and intelligent braking systems,
+Kavach aims to create a safer and more reliable railway network. As
+deployment increases in the coming years, it is expected to play a major
+role in reducing railway accidents and improving transportation safety
+in India.
